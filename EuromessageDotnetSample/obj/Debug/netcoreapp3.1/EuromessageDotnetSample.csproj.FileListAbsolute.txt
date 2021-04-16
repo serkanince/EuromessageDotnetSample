@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\EuromessageDotnetSample\EuromessageDotnetSample\bin\Debug\netcoreapp3.1\EuromessageDotnetSample.exe
+C:\Users\User\source\repos\EuromessageDotnetSample\EuromessageDotnetSample\obj\Debug\netcoreapp3.1\EuromessageDotnetSample.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EuromessageDotnetSample\EuromessageDotnetSample\obj\Debug\netcoreapp3.1\EuromessageDotnetSample.AssemblyInfo.cs
+C:\Users\User\source\repos\EuromessageDotnetSample\EuromessageDotnetSample\bin\Debug\netcoreapp3.1\EuromessageDotnetSample.deps.json
+C:\Users\User\source\repos\EuromessageDotnetSample\EuromessageDotnetSample\bin\Debug\netcoreapp3.1\EuromessageDotnetSample.runtimeconfig.json
+C:\Users\User\source\repos\EuromessageDotnetSample\EuromessageDotnetSample\bin\Debug\netcoreapp3.1\EuromessageDotnetSample.runtimeconfig.dev.json
+C:\Users\User\source\repos\EuromessageDotnetSample\EuromessageDotnetSample\bin\Debug\netcoreapp3.1\EuromessageDotnetSample.dll
+C:\Users\User\source\repos\EuromessageDotnetSample\EuromessageDotnetSample\bin\Debug\netcoreapp3.1\EuromessageDotnetSample.pdb
+C:\Users\User\source\repos\EuromessageDotnetSample\EuromessageDotnetSample\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\EuromessageDotnetSample\EuromessageDotnetSample\obj\Debug\netcoreapp3.1\EuromessageDotnetSample.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EuromessageDotnetSample\EuromessageDotnetSample\obj\Debug\netcoreapp3.1\EuromessageDotnetSample.csproj.CopyComplete
+C:\Users\User\source\repos\EuromessageDotnetSample\EuromessageDotnetSample\obj\Debug\netcoreapp3.1\EuromessageDotnetSample.dll
+C:\Users\User\source\repos\EuromessageDotnetSample\EuromessageDotnetSample\obj\Debug\netcoreapp3.1\EuromessageDotnetSample.pdb
+C:\Users\User\source\repos\EuromessageDotnetSample\EuromessageDotnetSample\obj\Debug\netcoreapp3.1\EuromessageDotnetSample.genruntimeconfig.cache
+C:\Users\User\source\repos\EuromessageDotnetSample\EuromessageDotnetSample\obj\Debug\netcoreapp3.1\EuromessageDotnetSample.csprojAssemblyReference.cache
